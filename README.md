@@ -12,6 +12,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a Web-Penetration-Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vietnam-flag-icon-download-in-svg-png-gif-file-formats--vietnamese-asia-asian-flags-pack-icons-2998661.png?f=webp&w=256" width="30">.
+Contact me : np.tn123@gmail.com
 
 
 ---
