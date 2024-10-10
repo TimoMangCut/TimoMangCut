@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TimoMangCut
+- 👀 contact me : np.tn123@gmail.com
